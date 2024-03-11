@@ -1,6 +1,6 @@
 # SmartHome LedController
 
-## Futures
+### Futures
 Can program through WiFi connection.
 Port: 3232
 
