@@ -1,8 +1,8 @@
 # SmartHome LedController
 
 ### Futures
-Can program through WiFi connection.
-Port: 3232
+- Can program through WiFi connection.
+- IP Address: 192.168.x.x:3232
 
 ### This controller can control:
 
