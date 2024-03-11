@@ -6,6 +6,13 @@
 
 # Simple API call
 
+Parameters:
+1: Index (from)
+2: Index (to)
+3: Red
+4: Green
+5: Blue
+
 ```
 {
     "section": [
