@@ -1,5 +1,9 @@
 # SmartHome LedController
 
+## Futures
+Can program through WiFi connection.
+Port: 3232
+
 ### This controller can control:
 
 - WS2811 800MHz Chip
